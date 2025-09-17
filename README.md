@@ -1,4 +1,7 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0000CD&random=false&width=500&height=40&lines=Hi,+I'm+Nicolas+Santos!)](https://git.io/typing-svg)
+- 🎓 Currently studying **Systems Development** at [SENAI](https://www.sp.senai.br/)
+- 🚀 Looking for an **internship opportunity**.  
+- 💻 Skilled in **Markup Languages** | **Node.JS**.
 
   <a href="https://github.com/nicolas16-sd/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas16-sd&theme=aura" />
