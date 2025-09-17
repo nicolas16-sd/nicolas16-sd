@@ -1,4 +1,4 @@
-<p align="left"># 👋 Olá! Eu sou Nicolas dos Santos<br><br>💻 Desenvolvedor Backend  <br>🚀 Apaixonado(a) por tecnologia, inovação e código limpo  <br>🎯 Foco em Node.JS e Análise de Dados<br>📕Técnico em Análise e Desenvolvimento de Sistemas - Senai Jandira 2/3</p>
+<p align="left"># 👋 Olá! Eu sou Nicolas dos Santos<br><br>💻 Desenvolvedor Backend  <br>🚀 Apaixonado(a) por tecnologia, inovação e código limpo  <br>🎯 Foco em **Node.JS** e **Análise de Dados**<br>📕Técnico em Análise e Desenvolvimento de Sistemas - Senai Jandira 2/3</p>
 
 ###
 
