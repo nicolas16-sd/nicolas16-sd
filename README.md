@@ -1,21 +1,79 @@
-<p align="left">👋 Olá! Eu sou Nicolas dos Santos<br><br>💻 Desenvolvedor Backend  <br>🚀 Apaixonado por tecnologia, inovação e código limpo  <br>🎯 Foco em Node.JS <br>📕Técnico em Análise e Desenvolvimento de Sistemas - Senai Jandira 2/3</p>
+<h1 align="center">Hi 👋, I'm Nicolas</h1>
+<h3 align="center">Backend Developer | Node.js | Kotlin | IoT</h3>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolas16-sd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolas16-sd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+## 🚀 About Me
+
+- 💻 Backend Developer
+- 📚 Currently improving my **English**, **Software Architecture** and **Best Practices**
+- 🧠 Learning about **Business Communication**
+- 🔌 Experience with **IoT projects (ESP32 & sensors)**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left"> 
+
+<a href="https://nodejs.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> 
+</a>
+
+<a href="https://kotlinlang.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/> 
+</a>
+
+<a href="https://www.java.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
+</a>
+
+<a href="https://www.mysql.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> 
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/> 
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> 
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> 
+</a>
+
+</p>
+
+---
+
+## 📌 Projects
+
+- 🌱 **Sensor de Umidade (IoT)**  
+- 🏫 **GNN Jandira**  
+- 📱 **Calculadora IMC em Kotlin**  
+- 🌡️ **Conversor de Temperatura**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nicolas16-sd&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas16-sd&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p align="left">
+<a href="https://github.com/nicolas16-sd" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
+</a>
+</p>
