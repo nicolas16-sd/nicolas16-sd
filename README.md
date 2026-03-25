@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">Backend Developer | Node.js | Kotlin | IoT</h3>
+<h3 align="center">Backend Developer | Node.js | Kotlin | Java | IIoT</h3>
 
 ---
 
